@@ -1,0 +1,7 @@
+﻿  ex2.cpp
+d:\eu\poo (programare orientata-obiect)\lab1\ex2\ex2.cpp(12): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\eu\poo (programare orientata-obiect)\lab1\ex2\ex2.cpp(12): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\eu\poo (programare orientata-obiect)\lab1\ex2\ex2.cpp(12): note: the missing variadic argument 2 is required by format string '%s'
+  d:\eu\poo (programare orientata-obiect)\lab1\ex2\ex2.cpp(12): note: this argument is used as a buffer size
+d:\eu\poo (programare orientata-obiect)\lab1\ex2\ex2.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  ex2.vcxproj -> D:\eu\POO (Programare orientata-obiect)\Lab1\Debug\ex2.exe
