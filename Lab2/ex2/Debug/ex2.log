@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\eu\objorpr\lab2\ex2\main.cpp(12): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\eu\objorpr\lab2\ex2\main.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\eu\objorpr\lab2\ex2\main.cpp(22): warning C4305: 'argument': truncation from 'double' to 'float'
+  ex2.vcxproj -> D:\eu\ObjOrPr\Lab2\Debug\ex2.exe
