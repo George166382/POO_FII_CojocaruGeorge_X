@@ -3,7 +3,7 @@ class Number
 {
 	char* num;
 	int base;
-	int nr;
+	int nr;  //the number in base 10
 public:
 
 	Number(const char * value, int base); // where base is between 2 and 16
