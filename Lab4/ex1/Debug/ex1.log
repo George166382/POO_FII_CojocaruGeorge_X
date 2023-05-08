@@ -1,2 +1,4 @@
-﻿  main.cpp
+﻿  Sort.cpp
+d:\eu\objorpr\lab4\ex1\sort.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\eu\objorpr\lab4\ex1\sort.cpp(63): warning C4018: '<': signed/unsigned mismatch
   ex1.vcxproj -> D:\eu\ObjOrPr\Lab4\Debug\ex1.exe
